@@ -1,0 +1,12 @@
+{
+  "Home": {
+    "landing": {
+      "title": "Add new task"
+    }
+  },
+  "User": {
+    "register": {
+      "title": "Register"
+    }
+  }
+}

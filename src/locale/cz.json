@@ -1,0 +1,12 @@
+{
+  "Home": {
+    "landing": {
+      "title": "Pridejte novy task"
+    }
+  },
+  "User": {
+    "register": {
+      "title": "Zaregistrovat se"
+    }
+  }
+}
